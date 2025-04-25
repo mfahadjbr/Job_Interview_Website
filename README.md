@@ -1,7 +1,5 @@
 ![Project Banner](/public/1.png)
 
-> Replace `./public/banner.png` with the path to your actual image.
-
 ---
 
 # 🔥 Project Setup Guide
